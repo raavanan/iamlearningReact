@@ -1,0 +1,15 @@
+{
+  "name": "react-fundamentals",
+  "version": "1.0.0",
+  "description": "learning Reactjs",
+  "main": "index.js",
+  "scripts": {
+    "start" : "webpack-dev-server"
+  },
+  "author": "Ganesh U <ganirockz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "0.14.7",
+    "react-dom": "0.14.7"
+  }
+}
